@@ -1,2 +1,4 @@
 node js is a run time environment  c++ and nodejs==v8 cromium engine
 asynch function always have error handling in the case of error while synch does not have
+
+😎 blocking operation non bolocking operation    basic node js architecture   event loop
