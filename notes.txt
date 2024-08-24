@@ -1,4 +1,37 @@
+node js is run time environment 
+{npm init} to intialize in any folder to manage package 
+to install any package from npm go to npm website and search for any {npm i xyz}
+to run type {node main.js}  {nodemon } {call back function}  
+{endpoints}  {node js servere vs databse server} 
+
+ http://localhost:3000
+mongodb://127.0.0.1:27017/
+ mongodb://27017/
+
+CRUD
+routing 
+
+
+ git init           to intialize the git version
+ git status      
+ git add x.js
+ git add .
+ git rm -r --cached node_modules
+git commit -m "version-1 of myhotel"
+
+
+
+ git remote set-url origin https://github.com/<user_name>/<repo_name>.git           use set url  to push on github it will work
+ {
+     git remote add origin git@github.com:rahulx64/node-myhotel.git   add->set-url
+     git branch -M main
+     git push -u origin main
+}
+
+
+
 node js is a run time environment  c++ and nodejs==v8 cromium engine
 asynch function always have error handling in the case of error while synch does not have
 
 😎 blocking operation non bolocking operation    basic node js architecture   event loop
+get put post patch delete
